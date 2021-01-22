@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🎧 Now playing
+[<img src="https://spotify-theta.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />](https://open.spotify.com/user/12134399548)
